@@ -1,6 +1,3 @@
-
-<h3 align="center">Olá, seja bem vindo ao meu perfil!</h1>
-<h2 align="center">Estudante de desenvolvimento web e programação em geral</h2>
 <div align="center">
   <a href="https://github.com/eversonps">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eversonps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
